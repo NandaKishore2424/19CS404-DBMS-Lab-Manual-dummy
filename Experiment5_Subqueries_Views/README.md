@@ -1,4 +1,6 @@
 # Experiment 5: Subqueries and Views
+### Name: NANDA KISHORE R
+### REG.NO: 212222060157
 
 ## AIM
 To study and implement subqueries and views.
