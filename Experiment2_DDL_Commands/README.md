@@ -1,7 +1,7 @@
 # Experiment 2: DDL Commands
 
-## NAME: SREE DHARMA A V
-## REG NO: 212222060252
+## NAME: NANDA KISHORE R
+## REG NO: 212222060157
 
 ## AIM
 To study and implement DDL commands and different types of constraints.
