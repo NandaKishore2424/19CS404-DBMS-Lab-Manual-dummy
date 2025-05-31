@@ -1,5 +1,7 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-### Name: SREE DHARMA A V
+### Name: NANDA KISHORE R
+### REG.NO: 212222060157
+
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
